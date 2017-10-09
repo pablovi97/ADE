@@ -2,7 +2,7 @@
 * ###  Paso 1/
  vamos a la pagina de mysqk community y descargamos el mysql community pero antes descargar los prerequisitos  
 
- ![imagen](./img/001.png)
+ ![imagen](./img/001.PNG)
 
  y tambien descargamos el python para que no nos de error la instalacion  
 
@@ -26,7 +26,9 @@
   workbench:  
 
     ![imagen](./img/011.png)  
-  MYSQL:
+
+  MYSQL:  
+
     ![imagen](./img/010.png)     
 
         al final no pudimos terminar la actividad por un error
