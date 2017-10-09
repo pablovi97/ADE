@@ -6,29 +6,29 @@
 
  y tambien descargamos el python para que no nos de error la instalacion  
 
-  ![imagen](./img/002.png)   
+  ![imagen](./img/002.PNG)   
 
-   ![imagen](./img/008.png)   
+   ![imagen](./img/008.PNG)   
   y ya tenemos el servicio activo
-    ![imagen](./img/005.png)
+    ![imagen](./img/005.PNG)
 * ### Paso 2/
  Ahora abrimos la ventadel terminal  en la que nosotros trabajaremos
-    ![imagen](./img/003.png)    
+    ![imagen](./img/003.PNG)    
 
 * ### Paso 3/  
   Ahora vamos a la ventana de servicios para ver que el servicio mysql esta habilitado       
-    ![imagen](./img/004.png)    
+    ![imagen](./img/004.PNG)    
   Abrimos la carpeta donde se encuentra la carepta APPDATA en nuestro PC    
 
-    ![imagen](./img/009.png)        
+    ![imagen](./img/009.PNG)        
 * ### Paso 4/  
   Instalamos el workbench y el mysql en el cliente  
   workbench:  
 
-    ![imagen](./img/011.png)  
+    ![imagen](./img/011.PNG)  
 
   MYSQL:  
 
-    ![imagen](./img/010.png)     
+    ![imagen](./img/010.PNG)     
 
         al final no pudimos terminar la actividad por un error
