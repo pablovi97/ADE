@@ -1,18 +1,24 @@
-## Inatalacion MYSQL community sobre Windows
+## Instalacion MYSQL community sobre Windows
 * ###  Paso 1/
- vamos a la pagina de mysqk community y descargamos el mysql community pero antes descargar los prerequisitos  
+ vamos a la pagina de mysqk community y descargamos el mysql community pero antes descargar los prerequisitos    
+
 
  ![imagen](./img/001.PNG)
 
- y tambien descargamos el python para que no nos de error la instalacion  
-
-  ![imagen](./img/002.PNG)   
+ y tambien descargamos el python para que no nos de error la instalacion    
+   ![imagen](./img/002.PNG)
+* a la hora de instalar el mysql workbench  ponemos instalacion en developer y Instalamos todos las partes
+     ![imagen](./img/012.PNG)
 
    ![imagen](./img/008.PNG)   
+
   y ya tenemos el servicio activo
-    ![imagen](./img/005.PNG)
+  
+    ![imagen](./img/005.PNG)  
+
 * ### Paso 2/
- Ahora abrimos la ventadel terminal  en la que nosotros trabajaremos
+ Ahora abrimos la ventadel terminal  en la que nosotros trabajaremos  
+
     ![imagen](./img/003.PNG)    
 
 * ### Paso 3/  
