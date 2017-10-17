@@ -60,8 +60,10 @@
 ### Preguntas:
   * ¿Quién es el usuario propietario de la instalación ? Mysql  
 
-  * ¿cual es el directorio de instalacion ?  etc/Mysql
+  * ¿cual es el directorio de instalacion ?  etc/Mysql  
+   
 
+  * ¿ cual es el directorio de datos ? var/lib/mysql
 
 
    * Aplicar el lenguaje de los mensajes de error  a español, modificando la configuración (indicar el directorio donde se aloja el fichero en español)  
