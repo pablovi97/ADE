@@ -60,7 +60,7 @@
 ### Preguntas:
   * ¿Quién es el usuario propietario de la instalación ? Mysql  
 
-
+  * ¿cual es el directorio de instalacion ?  etc/Mysql
 
 
 
@@ -73,5 +73,5 @@
 
    * marcamos "languaje" pinemos la ruta en spanish  y "lc-message"  ponemos es-ES  
 
-   
+
   ![imagen](./img/idioma.png)
