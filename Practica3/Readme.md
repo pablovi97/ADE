@@ -1,6 +1,6 @@
 # *Instalacion de SQL Server 2014 Express*
 
-### Paso 1  
+### Paso 1 (Servidor)
     Instalamos MYSQL Management Studio en un servidor
     en Windows 10   
 
@@ -18,7 +18,7 @@
 
 ![imagenes](./IMG/005.png)     
 
-### Paso 2
+### Paso 2 (Servidor)
 
     Ya finalizada la instalacion nos conectamos de forma local a nuestro servidor    
 
@@ -30,12 +30,12 @@
 
 > pd: despues cambie el nombre que pone ahi de "DESKTOP.." por "PABLO-PC" para que sea mas facil de usar  
 
-### Paso 3  
+### Paso 3 (Servidor)
 > Antes de nada bajamos el Firewall tanto en el cliente como en el servidor   
 
     A continuacion hacemos una configuracion del SQL server ,para ello nos iremos a inicio y
      escribimos "SQL server configuration manager"   
-+ Activamos el Server Browser para que podeamos especificarle a que mquina tenemos que conectarnos  
++ Activamos el Server Browser para que podamos especificarle a que maquina tenemos que conectarnos a traves de su ip
 
 ![imagenes](./IMG/008.png)   
 
@@ -47,7 +47,8 @@
 
 ![imagenes](./IMG/011.png)   
 
-### Paso 4  
+### Paso 4  (Cliente)
+>Usamos una maquina Windows 7  
 
 + Instalamos el Framework para que pueda funcionar en el cliente   
 
@@ -59,9 +60,9 @@
 
 ![imagenes](./IMG/013.png)
 
-> cuando este instalado , en el servidor vamos a PABLO-PC  con la sesion activada  y abrimos la pestaña de  "Seguridad/inicio de sesio/ sa" y ca,biamos la contraseña de "sa"   
+>(En el servidor) cuando este instalado , en el servidor vamos a PABLO-PC  con la sesion activada  y abrimos la pestaña de  "Seguridad/inicio de sesio/ sa" y cambiamos la contraseña de "sa"   
 
-### Paso 5  
+### Paso 5  (cliente)
 
 + Abrimos el cliente ,ponemos la ip del servidor "172.18.17.30" luego en "Authentication" ponemos "SQL server Authentication" , en Login ponemos "sa" y en Password la contraseña que pusimos previamente  
 
