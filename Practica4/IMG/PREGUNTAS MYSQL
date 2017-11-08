@@ -1,0 +1,42 @@
+2.Encuentra el fichero my.ini o my.cnf de tu instalación de MySQL (podría no estar en una ubicación no estándar)
+
+*ect/my.cnf
+
+3.¿Cómo se escribe un comentario en este fichero?¿Y un grupo de opciones?¿Todas las opciones tienen un valor?
+
+*Los comentarios se escriben con almohadilla "#" o con "!" . 
+* Los grupos de opciones se hacen con "--" ,cualquier liena de opciones se aplica a cualquier grupo nombrado
+ hasta que se de el final del archivo de opcion u otro linea de grupo
+*No, el valor se puede incluir opcionalmente
+
+5.Explica qué significan y que se consigue con cada una de las variables del siguiente fichero de configuración 
+
+- [client] : en la variable cliente es un grupo general porque se usa para todos los programas del cliente"
+-[mysqld]:esta variable solo sera leida por mysqld
+-[mysqldump]:habilita opciones especificas de mysqldump para anular las pciones del cliente
+
+*VARIABLES DINAMICAS:
+1.Detalla los posibles atributos que tendría una variable de servidor como "port".
+	-Name:Port
+	-variable scope:Global
+	-Dynamic Variable :No
+	-type:integer
+	-Default:3306
+	-Min Value:0
+	-Max Value:65535
+
+2.¿Cómo podemos saber si una variable es dinámica o no?
+
+ Porque son aquellas variables que  se pueden modificar mientras se ejecutan
+
+3.-¿Qué hace la variable "uptime"?
+ mide el tiempo que lleva activo el servidor desde su ultimo reinicio
+
+       - Indica su valor en tu servidor
+uptime :2583
+
+        -¿Es posible modificar su valor con comando SET?
+no se puede modificar
+
+
+
