@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Ficheros Log
 
 * **1.-Explica qué es y para qué sirve el "ERROR LOG"**   
@@ -43,31 +42,3 @@ es un carchivo que guarada todo lo que se hace en la base de datos
 * **4.-Accede al servidor a través de Workbench. ¿Qué se registra en "general_log"?¿Hay alguna diferencia respecto al cliente mysql ?**  
 
 ![IMG](./IMG/008.png)
-=======
-# Diccionario de Datos  
-
->El diccionario de datos es un componente esencial en cualquier SGBD ya que contiene información (metadatos) sobre los objetos de las bases de datos alojadas en nuestro servidor.   
-
-**1 .-Interrogando la bases de datos Information_schema, extrae información (atributos table_name, table_type) sobre las tablas que conforman la base de datos "sakila".**    
-
-![IMG](./IMG/00.png)   
-
-![IMG](./IMG/001.png)  
-
-**2 .-¿Cuál es el comando SHOW equivalente al anterior?**   
-
-![IMG](./IMG/002.png)   
-
-**3 .-Repite lo mismo extrayendo la información sobre el esquema de una tabla en particular de la base de datos "sakila"**  
-
-![IMG](./IMG/003.png)    
-
- **4 .-¿Cuál es el comando SHOW equivalente al anterior?**  
-
-
- ![IMG](./IMG/004.png)    
-
- **5 .-Atendiendo a la base de datos "Information_schema", ¿cuáles son las tablas principales según tu criterio?**    
-
- >schema_privileges, table_privileges y user_privileges
->>>>>>> 8c0dd4ced679e069ba4ce0587624a890214ded7f
